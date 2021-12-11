@@ -80,8 +80,9 @@ main {
     font-weight: bold;
     font-size: 36px;
     line-height: 41px;
-
-color: #1D06A7;
+    position: relative;
+    left: 350px;
+    color: #1D06A7;
 }
 
 
@@ -115,6 +116,8 @@ button:hover {
     font-weight: bold;
     font-size: 36px;
     line-height: 41px;
+    position: relative;
+    left: 350px;
     color: #26CC4B;
 }
 
@@ -165,6 +168,8 @@ button:hover {
     font-weight: bold;
     font-size: 36px;
     line-height: 41px;
+    position: relative;
+    left: 280px;
     color: #00AD84;
 }
 
@@ -194,6 +199,8 @@ button:hover {
     font-weight: bold;
     font-size: 36px;
     line-height: 41px;
+    position: relative;
+    left: 400px;
     color: #ADFF28;
 }
 
@@ -223,6 +230,8 @@ button:hover {
     font-weight: bold;
     font-size: 36px;
     line-height: 41px; 
+    position: relative;
+    left: 400px;
     color: #FF1B1B;
 }
 
