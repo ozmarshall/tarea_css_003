@@ -71,6 +71,17 @@ main {
 .sobre_mi {
     position: relative;
     z-index: 1;
+    
+}
+
+.titulo_sobre_mi {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+
+color: #1D06A7;
 }
 
 
@@ -98,6 +109,17 @@ button:hover {
     
 }
 
+.titulo_mis_skills {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    color: #26CC4B;
+}
+
+
+
 .skill_a {
     width: 403px;
     height: 20px;
@@ -124,6 +146,8 @@ button:hover {
 }
 
 
+
+
 /*box 4*/
 .div_4 { 
     height: 424px;
@@ -132,6 +156,16 @@ button:hover {
     padding-left: 120px;
     padding-right: 120px;
     
+}
+
+
+.titulo_portafolio {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    color: #00AD84;
 }
 
 .portafolio_contenedor {
@@ -146,12 +180,21 @@ button:hover {
 }
 
 
-/*box 1*/
+/*box 5*/
 .div_5 { 
     height: 258px;
     background: #3F4E62;
     position: relative;
     
+}
+
+.titulo_clientes {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    color: #ADFF28;
 }
 
 .cliente_contenedor {
@@ -166,12 +209,21 @@ button:hover {
 }
 
 
-/*box 1*/
+/*box 6*/
 .div_6 { 
     height: 578px;
     background: #1687A0;
     position: relative;
     
+}
+
+.titulo_contacto {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px; 
+    color: #FF1B1B;
 }
 
 
