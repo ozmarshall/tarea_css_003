@@ -83,6 +83,8 @@ main {
     position: relative;
     left: 350px;
     color: #1D06A7;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -119,6 +121,8 @@ button:hover {
     position: relative;
     left: 350px;
     color: #26CC4B;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -171,6 +175,8 @@ button:hover {
     position: relative;
     left: 280px;
     color: #00AD84;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .portafolio_contenedor {
@@ -202,6 +208,8 @@ button:hover {
     position: relative;
     left: 400px;
     color: #ADFF28;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .cliente_contenedor {
@@ -233,6 +241,8 @@ button:hover {
     position: relative;
     left: 400px;
     color: #FF1B1B;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 
