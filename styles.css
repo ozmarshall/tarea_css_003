@@ -1,0 +1,205 @@
+/*globales*/
+body {
+    font-family: Arial;
+    color: #fff;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+p {
+    font-size: 14px;
+    padding-bottom: 25px;
+    line-height: 30px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+main {
+    width: 960px;
+}
+
+/*box 1*/
+.div_1 { 
+    position: relative;
+    
+}
+
+.codigo {
+    position: absolute;
+    top: 60px;
+    left: 395px;
+    z-index: 1;
+}
+
+.saludo {
+    font-size: 36px;
+    width: 20%;
+    position: absolute;
+    top: 330px;
+    left: 100px;
+    z-index: 2;
+}
+
+.box1_1 { 
+    width: 360px;
+    height: 130px;
+    border-radius: 10px;
+    background: #7299FE;
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    z-index: 1;
+    
+}
+
+/*box 2*/
+.div_2 { 
+    height: 424px;
+    background: #7299FE;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+
+.sobre_mi {
+    position: relative;
+    z-index: 1;
+}
+
+
+.button_1 {
+    border-radius: 10px;
+    width: 150px;
+    height: 55px;
+    background-color: #D16FFF;
+    cursor: pointer;
+}
+
+button:hover {
+    border-color: grey;
+}
+
+
+/*box 3*/
+.div_3 { 
+    height: 424px;
+    background: #9022FF;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+}
+
+.skill_a {
+    width: 403px;
+    height: 20px;
+    background: #fff;
+    border-radius: 10px;
+  
+    z-index: 1;
+}
+
+.skill_b {
+    width: 185px;
+    height: 20px;
+    background: #57EFF9;
+    border-radius: 10px;
+    
+    z-index: 1;
+}
+
+.contenedor_skills {
+    display: flex;
+    flex-wrap: wrap;
+
+   
+}
+
+
+/*box 4*/
+.div_4 { 
+    height: 424px;
+    background: #FFD233;
+    position: relative;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+}
+
+.portafolio_contenedor {
+    display: flex;
+    flex-wrap: wrap;
+
+   
+}
+
+.img_port_cont {
+    margin: 15px 15px 15px 15px;
+}
+
+
+/*box 1*/
+.div_5 { 
+    height: 258px;
+    background: #3F4E62;
+    position: relative;
+    
+}
+
+.cliente_contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.img_cli_cont {
+    margin: 15px 15px 15px 15px;
+}
+
+
+/*box 1*/
+.div_6 { 
+    height: 578px;
+    background: #1687A0;
+    position: relative;
+    
+}
+
+
+.form_1 {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+.button_2 {
+    width: 150px;
+    height: 55px;
+    background-color: #233451;
+    cursor: pointer;
+}
+
+button:hover {
+    border-color: grey;
+}
+
+
+
+
+
+
+
+
+
