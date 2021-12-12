@@ -59,6 +59,9 @@ main {
     z-index: 1;
     
 }
+.img_1 {
+    display: block;
+}
 
 /*box 2*/
 .div_2 { 
@@ -151,6 +154,7 @@ button:hover {
 .contenedor_skills {
     display: flex;
     flex-wrap: wrap;
+    padding-top: 30px;
 
    
 }
@@ -217,13 +221,16 @@ button:hover {
 
 .cliente_contenedor {
     display: flex;
-    flex-wrap: wrap;
+    justify-content: space-around;
     align-items: center;
+    
+    
+    
 
 }
 
 .img_cli_cont {
-    margin: 15px 15px 15px 15px;
+    padding: 10px 10px 10px 10px;
 }
 
 
@@ -251,8 +258,15 @@ button:hover {
 
 .form_1 {
     width: 70%;
+    position: relative;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.area_1 {
+    margin: 15px 10px 15px 10px;
 }
 
 
@@ -263,6 +277,11 @@ button:hover {
     height: 55px;
     background-color: #233451;
     cursor: pointer;
+    margin: 0 auto;
+    color: #fff;
+   
+    
+    
 }
 
 button:hover {
