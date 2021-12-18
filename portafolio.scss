@@ -1,0 +1,34 @@
+/*portafolio*/
+.div_4 { 
+    height: 424px;
+    background: #FFD233;
+    position: relative;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+}
+
+
+.titulo_portafolio {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    position: relative;
+    text-align: center;
+    color: #00AD84;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.portafolio_contenedor {
+    display: flex;
+    flex-wrap: wrap;
+
+   
+}
+
+.img_port_cont {
+    margin: 15px 15px 15px 15px;
+}

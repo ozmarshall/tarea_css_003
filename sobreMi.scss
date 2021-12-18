@@ -1,0 +1,42 @@
+/*sobre mi*/
+.div_2 { 
+    height: 424px;
+    background: #7299FE;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+
+
+.sobre_mi {
+    position: relative;
+    z-index: 1;
+    
+}
+
+.titulo_sobre_mi {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    position: relative;
+    text-align: center;
+    color: #1D06A7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.button_1 {
+    border-radius: 10px;
+    width: 150px;
+    height: 55px;
+    background-color: #D16FFF;
+    cursor: pointer;
+}
+
+button:hover {
+    border-color: grey;
+}

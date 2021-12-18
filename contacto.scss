@@ -1,0 +1,53 @@
+/*contacto*/
+.div_6 { 
+    height: 578px;
+    background: #1687A0;
+    position: relative;
+    
+}
+
+.titulo_contacto {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px; 
+    position: relative;
+    text-align: center;
+    color: #FF1B1B;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.form_1 {
+    width: 80%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.area_1 {
+    margin: 15px 10px 15px 10px;
+}
+
+
+
+
+.button_2 {
+    width: 150px;
+    height: 55px;
+    background-color: #233451;
+    cursor: pointer;
+    margin: 0 auto;
+    color: #fff;
+   
+    
+    
+}
+
+button:hover {
+    border-color: grey;
+}

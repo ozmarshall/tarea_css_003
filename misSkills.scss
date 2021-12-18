@@ -1,0 +1,53 @@
+/*mis skills*/
+.div_3 { 
+    height: 424px;
+    background: #9022FF;
+    position: relative;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    
+}
+
+.titulo_mis_skills {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    position: relative;
+    text-align: center;
+    color: #26CC4B;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+.skill_a {
+    width: 403px;
+    height: 20px;
+    background: #fff;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.skill_b {
+    width: 20%;
+    height: 20px;
+    background: #57EFF9;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.contenedor_skills {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    justify-content: center;
+}
+
+.curso_titulo {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
